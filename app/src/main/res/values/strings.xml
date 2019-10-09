@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lets Go</string>
+    <string name="tab_text_1">List</string>
+    <string name="tab_text_2">Map</string>
+</resources>
